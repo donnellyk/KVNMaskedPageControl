@@ -1,7 +1,0 @@
-pod "KVNMaskedPageControl", :path => "../KVNMaskedPageControl.podspec"
-
-target "Demo" do
-end
-
-target "DemoTests" do
-end
