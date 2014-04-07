@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   #s.screenshots     = "https://github.com/donnellyk/KVNMaskedImageViewAssets/screenshot1.png", "https://github.com/donnellyk/KVNMaskedImageViewAssets/screenshot2.png"
   s.license          = 'MIT'
   s.author           = { "Kevin" => "kevin@kvnd.me" }
-  s.source           = { :git => "https://github.com/donnellyk/KVNMaskedImageView.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/donnellyk/KVNMaskedPageControl.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/donnellyk'
 
   s.platform     = :ios, '6.0'
