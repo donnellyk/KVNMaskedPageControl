@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "A drop-in replacement for UIPageControl that allows masking between two sets of colors"
   s.homepage         = "https://github.com/donnellyk/KVNMaskedPageControl"
-  #s.screenshots     = "https://github.com/donnellyk/KVNMaskedImageViewAssets/screenshot1.png", "https://github.com/donnellyk/KVNMaskedImageViewAssets/screenshot2.png"
+  s.screenshots     = "https://raw.githubusercontent.com/donnellyk/KVNMaskedPageControl/master/Assets/screenshot1.png", "https://raw.githubusercontent.com/donnellyk/KVNMaskedPageControl/master/Assets/screenshot2.png"
   s.license          = 'MIT'
   s.author           = { "Kevin" => "kevin@kvnd.me" }
   s.source           = { :git => "https://github.com/donnellyk/KVNMaskedPageControl.git", :tag => s.version.to_s }
