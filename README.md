@@ -1,3 +1,5 @@
+# This project is not maintained
+
 # KVNMaskedPageControl
 
 A drop-in replacement for UIPageControl that allows seamless transition between different dot styles, one for each page, using a masking effect.
